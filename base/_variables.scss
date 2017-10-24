@@ -1,0 +1,33 @@
+$kelly-green:#20af50;
+$white: #ffffff;
+$light-grey:#efefef;
+$medium-grey:#808080;
+$dark-grey:#414141;
+//
+// $font-family-one: @font-face {
+//    Montserrat, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+//   }
+
+
+// $font-family-two: {
+//   font-family: Montserrat, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// }
+
+
+
+h1 {
+  text-align: center;
+  font-family: Montserrat, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  color: $white;
+  padding: 2vw 4vh;
+
+}
+
+h6 {
+  font-family: Montserrat, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  color: $white;
+}
